@@ -1,7 +1,7 @@
 # Github-profile-finder
 App built in JavaScript to search real Github users profiles
 
-####################################################
+
 Description:
 Search users profiles, repositories, followers, following, links etc from GitHub using fetch API.
 ![GitHub Profile Finder](/imgs/githubuserfinder.JPG)
