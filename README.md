@@ -25,8 +25,8 @@ Consult the GitHub API guidelines to make changes to your API calls.
 https://developer.github.com/v3/
 
 3. Once registered, add your client_id and client_secret to the github.js file in the GitHub Class:
-this.client_id = '';
-this.client_secret = '';
+this.client_id = "";
+this.client_secret = "";
 
 4. Open index.html with your live server
 
