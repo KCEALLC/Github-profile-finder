@@ -2,7 +2,7 @@
 App built in JavaScript to search real Github users profiles
 
 
-Description:
+### Description:
 Search users profiles, repositories, followers, following, links etc from GitHub using fetch API.
 ![GitHub Profile Finder](/imgs/githubuserfinder.JPG)
 
@@ -12,11 +12,11 @@ When no user is found, a message is displayed indicating that there is no user f
 ![GitHub User Not Found](/imgs/githubusernotfound.JPG)
 
 
-Requirements:
+#### Requirements:
 - Local live server environment
 - GitHub OAuth App registration
 
-Usage:
+#### Usage:
 1. Download or clone the source files to a local folder.
 2. You must register your app with GitHub to get your client id and client secret keys.
 https://developer.github.com/apps/building-oauth-apps/creating-an-oauth-app/
@@ -32,4 +32,4 @@ this.client_secret = "";
 
 5. Enjoy!!
 
-NOTE: This app is for educational purposes only and should not be used in production or commercial environments.
+**NOTE**: This app is for educational purposes only and should not be used in production or commercial environments.
